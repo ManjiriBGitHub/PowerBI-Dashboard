@@ -8,8 +8,7 @@
 
 
 ## Problem Statement
-This Power BI dashboard provides an interactive view of eCommerce sales performance across various regions in India. It tracks sales metrics such as revenue, orders, average order value, customer satisfaction, and regional sales performance, helping the business identify areas for improvement and optimize their strategy.
-
+The objective of this eCommerce sales dashboard is to provide the store owner with real-time insights into sales performance, regional trends, customer behavior, and product success across India. This enables the owner to make data-driven decisions to optimize inventory, marketing strategies, customer retention, and overall profitability.
 
 ## Steps to Create the Power BI Dashboard
 
