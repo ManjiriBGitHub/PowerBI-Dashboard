@@ -90,7 +90,7 @@ The top 3 customers by spend are Harivansh, Mashav, and Madan Mohan, with Hariva
 - Total Quantity Sold: 5615 items
 - Total Profit: ₹37K
 - Average Order Value (AOV): ₹121K
-Suggestion: The overall performance is strong, but there’s room for improvement in profit margins. Focus on optimizing costs, such as shipping and product sourcing, to improve profitability. Also, increasing average order value through cross-sells or upsells can enhance revenue.
+- Suggestion: The overall performance is strong, but there’s room for improvement in profit margins. Focus on optimizing costs, such as shipping and product sourcing, to improve profitability. Also, increasing average order value through cross-sells or upsells can enhance revenue.
 
 ## Key Suggestions
 - Capitalize on High-Profit Months: Increase marketing and offers during January, March, August, October, and November.
